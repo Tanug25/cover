@@ -140,6 +140,8 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
+![bookcover](https://github.com/Tanug25/cover/assets/138849166/be7ac4b6-62ea-4d02-a4ea-f95b0e894fde)
+![valid](https://github.com/Tanug25/cover/assets/138849166/3f51643d-d5b0-45b7-83ef-9296cd40dc19)
 
 
 ## HTML VALIDATOR:
